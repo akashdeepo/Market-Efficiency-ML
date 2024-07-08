@@ -1,4 +1,3 @@
-Sure! Here's the complete `README.md` code that you can paste into your GitHub repository:
 
 ```markdown
 # Stock Price Prediction with Transformer Model
