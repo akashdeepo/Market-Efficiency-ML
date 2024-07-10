@@ -1,5 +1,4 @@
 
-```markdown
 # Stock Price Prediction with Transformer Model
 
 This repository contains a Jupyter notebook for predicting stock prices using a Transformer-based model. The model utilizes various technical indicators to enhance its predictive power.
