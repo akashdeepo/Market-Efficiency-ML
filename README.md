@@ -1,5 +1,5 @@
 
-# Stock Price Prediction with Transformer Model
+# Do Technical Indicators Improve Prediction Accuracy of ML Models or add Noise?
 
 This repository contains a Jupyter notebook for predicting stock prices using a Transformer-based model. The model utilizes various technical indicators to enhance its predictive power.
 
